@@ -1,9 +1,19 @@
-# Pengalaman-Belajar
+# Pengalaman-Belajar di Dicoding
 
-**Pengalaman Belajar di Dicoding** 
-* Mengenai, Memulai pemrograman, Logika pemrograman, dan juga mengenai git dan github
-<br>**mulai tanggal 12 Febuari 2024**<br>
-* Saya dapat mengakses kursus ini gratis karena mngikuti Program Studi Independen Kampus Merdeka Bangkit
-<br>**tanggal 13 febuari**<br>
-* saya belajar matriculation course
-* Disana ada beberapa pre course diantaranya <br> memulai pemrograman,<br> logika pemrograman <br> dan belajar git dan github
+**14 Juni 2021**<br>
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+* Belajar tentang apa itu Java dan alasan menggunakannya.
+* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+
+**15 Juni 2021**<br>
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
+* Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
+* Belajar control flow dalam Java, seperti perulangan dan percabangan.
+* Belajar tipe data koleksi, seperti list, set, dan map.
+
+**20 Juni 2021**<br>
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
+* Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
+* Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting.
+* Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar.
+* Mengerjakan ujian akhir untuk menilai kemahiran diri.
